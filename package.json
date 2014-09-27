@@ -1,0 +1,19 @@
+{
+  "name": "manage-it",
+  "version": "0.0.0",
+  "description": "A project management tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Project",
+    "management"
+  ],
+  "author": "Adam Jiang",
+  "license": "bsd",
+  "dependencies": {
+    "express": "^4.9.5",
+    "mongoose": "^3.8.16"
+  }
+}
